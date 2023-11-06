@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>
+			TRS
+		</title>
+	</head>
+<body bgcolor = "orange">
+<center><h1><font color = "blue" face = "Arial Black"><b>Life of Esakki Raja </b></font> </h1></center>
+<marquee><h1> Esakki Raja </h1></marquee>
+<center><h2> FX school </h2></center>
+<p> <b>esakki raja hobbies</b> : <u><ul type = "square">
+	<li>painting</li>
+	<li>eating</li>
+	<li>sleeping</li></u>
+</ul>
+<br><b>Father name :</b> <u>Senthil Arumugam</u>  </p>
+<p><b>Address:</b>17 , <i>jeyaprakash street tirunelveli</i></p>
+<p><b>DOB :</b> <u> 19 /08/ 2007<u/></p>
+<a href = "https://www.francisxavier.ac.in/">Francis xavier </a><br>
+<a href = "C:\Users\Os lab\Desktop\new.html">Mohammed Nufail</a>
+<center><ol type = "I">
+<h4>Games</h4>
+<li>  putt party </li>
+<li>Valorent</li>
+<li>Rocket league</li>
+<li>Minecraft</li>
+<li>Tomb raider</li>
+<li>rdr 2</li>
+
+</ol></center>
+
+
+
+<marquee direction = "right" behaviour= slide ><h3><font color = "red ">TRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRSTRS</font></h3></marquee>
+</body>
+</html>
